@@ -49,6 +49,6 @@ Users should be able to:
 ## Author
 
 - Website - [MagWebDev](http://www.magweb.pl)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MagWebDev)
+- Frontend Mentor - [@MagWebDev](https://www.frontendmentor.io/profile/MagWebDev)
 
 
